@@ -11,6 +11,7 @@ footer {
 /* navbar */
 .navbar {
     background-color: #fff;
+    margin-bottom: 0px;
 }
 .navbar-header img {
     margin-top: 5px;
@@ -19,8 +20,7 @@ footer {
 
 /* cover */
 .cover {
-    margin-top: -20px;
-    margin-top: 20px;
+    margin-top: 0px;
     width: 100%;
     height: 300px;
     background: url("/images/cover-bg.jpg") center center no-repeat;
